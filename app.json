@@ -1,0 +1,12 @@
+{
+    "name": "GwentApp",
+    "description": "A Gwent Calculator",
+    "image": "heroku/python",
+    "repository": "https://github.com/bitbyt3r/gwent-app",
+    "keywords": ["python" ],
+    "addons": [ ],
+    "env": {
+    },
+    "environments": {
+    }
+  }

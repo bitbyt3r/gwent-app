@@ -1,0 +1,1 @@
+web: gunicorn wsgi:app -b 0.0.0.0 --timeout 120 --log-file -
