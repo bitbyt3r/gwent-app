@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="GwentLogo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="166.05803"
+     inkscape:cy="620.37833"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#001300;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 47.648791,55.602478 c -9.17049,7.213255 -17.29045,16.967565 -26.05859,25.154297 0.39634,28.596755 -0.69195,57.248565 0.58494,85.813695 1.48369,18.61453 9.45992,39.31357 27.7345,47.22124 18.69525,6.22894 38.225881,9.83851 57.214829,15.14168 15.60049,3.97138 31.20158,7.94036 46.80168,11.91324 0.18273,-43.12629 0.36287,-86.2526 0.54297,-129.3789 -12.94203,0.22792 -26.15504,-0.44106 -38.92969,0.34375 -15.860097,10.47972 -31.719595,20.96034 -47.580089,31.43945 19.136719,0.005 38.273449,0.009 57.410169,0.0137 -0.16341,19.43815 -0.32682,38.8763 -0.49023,58.31446 -20.03927,-5.79165 -40.460705,-10.43951 -60.275409,-16.90625 -13.12379,-5.52406 -15.34275,-21.52244 -14.41158,-34.03125 0.0122,-21.9948 0.0244,-43.98959 0.0366,-65.984395 20.940105,0.01497 41.88021,0.02995 62.820329,0.04492 -0.003,6.582683 -0.004,13.165366 -0.008,19.748065 25.97882,-16.282996 51.95574,-32.569011 77.93359,-48.853533 -47.77539,0.0014 -95.550792,0.004 -143.326186,0.0059 z"
+       id="path4520-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#008000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 114.92053,82.628348 -0.005,18.131352 68.97433,-43.238569 -136.369227,0.0054 -24.059627,23.985531 0.05909,76.652868 c 1.197144,39.77726 19.519447,52.17661 32.606881,55.68338 l 95.682493,24.35247 0.52379,-124.80815 -35.81949,0.0108 -42.029804,27.77454 52.774314,0.0108 -0.52916,62.93055 -58.248647,-15.918 C 54.570842,184.20754 48.625169,173.95385 48.060162,158.62422 l 0.04298,-76.044222 z"
+       id="path4520"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+  </g>
+</svg>
